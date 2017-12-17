@@ -1,6 +1,0 @@
-
-          window.__NEXT_REGISTER_PAGE('/home/GroupInput', function() {
-            var comp = module.exports=webpackJsonp([6],{198:function(e,t,a){e.exports=a(199)},199:function(e,t,a){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}Object.defineProperty(t,"__esModule",{value:!0});var u=a(5),n=l(u),s=a(0),r=l(s),d=a(1),c=l(d),f=a(6),p=l(f),i=a(7),o=l(i),m=a(16),x=l(m),_=a(2),b=l(_),j=a(15),v=(l(j),function(e){function t(e){return(0,r.default)(this,t),(0,p.default)(this,(t.__proto__||(0,n.default)(t)).call(this,e))}return(0,o.default)(t,e),(0,c.default)(t,[{key:"render",value:function(){var e=this.props,t=e.label,a=e.type;return b.default.createElement("div",{className:"jsx-202730956 group-input"},b.default.createElement("label",{className:"jsx-202730956"},b.default.createElement("div",{className:"jsx-202730956 input-label"},b.default.createElement("span",{className:"jsx-202730956"},t)),b.default.createElement("div",{className:"jsx-202730956 input-element"},b.default.createElement("input",{type:a,name:t,className:"jsx-202730956"}))),b.default.createElement(x.default,{styleId:"202730956",css:[".group-input{margin:5px 0 10px;}"]}))}}]),t}(_.Component));v.defaultProps={label:"Label",type:"text"},t.default=v}},[198]);
-            return { page: comp.default }
-          })
-        

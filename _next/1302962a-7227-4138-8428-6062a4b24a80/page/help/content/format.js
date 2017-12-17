@@ -1,0 +1,6 @@
+
+          window.__NEXT_REGISTER_PAGE('/help/content/format', function() {
+            var comp = module.exports=webpackJsonp([9],{266:function(e,t,o){e.exports=o(267)},267:function(e,t,o){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=["To create your own template works fine, you need to understand the basic of our supported text formatting to create template.",{label:"input",content:"To create an input, the keyword is with double open bracket `{{` + unique label/name + double close bracket `}}`. Example:\n    `{{Your Name}}`\n    "},{label:"placeholder",content:"You can put placeholder to your input using placeholder properties. The keyword is add `[placeholder=Your placeholder here]` on the right input format. Example:\n    ```{{unique name[placeholder=Put your unique name here...]}}```\n    "},{label:"default",content:"Set default value to input with default properties. The keyword is `[default=The default value]`. Example `{{Your name[default=Andy]}}`"},{label:"type",content:"Input type can be specified. For now, metsnip support type of `text, number, email`. The keyword is `[type=one of(text, number, and email)]`. Example: `{{Your email[type=email]}}`"}]}},[266]);
+            return { page: comp.default }
+          })
+        

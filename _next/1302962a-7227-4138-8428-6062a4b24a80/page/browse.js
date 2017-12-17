@@ -1,0 +1,6 @@
+
+          window.__NEXT_REGISTER_PAGE('/browse', function() {
+            var comp = module.exports=webpackJsonp([10],{232:function(e,t,a){e.exports=a(233)},233:function(e,t,a){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}Object.defineProperty(t,"__esModule",{value:!0});var l=a(4),r=n(l),o=a(1),i=n(o),s=a(2),u=n(s),f=a(5),d=n(f),c=a(6),p=n(c),m=a(11),x=n(m),y=a(0),b=n(y),g=a(57),h=n(g),_=a(40),k=n(_),w=function(e){function t(){return(0,i.default)(this,t),(0,d.default)(this,(t.__proto__||(0,r.default)(t)).apply(this,arguments))}return(0,p.default)(t,e),(0,u.default)(t,[{key:"render",value:function(){return b.default.createElement(h.default,{title:"Browse Template"},b.default.createElement(k.default,{className:"container"},b.default.createElement("center",{className:"jsx-1282117670"},"Currently browse page on development stage. Thanks for your patience and support.")),b.default.createElement(x.default,{styleId:"1282117670",css:['.container{font-family:"Baloo Bhai",serif;font-size:2em;margin-top:-60px !important;color:#333;height:100vh;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}']}))}}]),t}(y.Component);t.default=w}},[232]);
+            return { page: comp.default }
+          })
+        
